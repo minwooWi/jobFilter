@@ -1,9 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I made it because of companies that post too many posts on job search sites at the same time.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+I made it because of companies that post too many posts on job search sites at the same time
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -28,5 +26,3 @@ Click on the "Open" button to install the extension.
 Once you've completed these steps, the extension should be installed and ready to use. You should see its icon in the Chrome toolbar or in the Extensions menu.
 
 Note that installing an extension from a manifest.json file may not always be secure, so make sure that you only install extensions from trusted sources. Also, keep in mind that some extensions may require additional steps for installation or configuration, so be sure to read the extension's documentation or instructions carefully.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
